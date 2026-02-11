@@ -42,3 +42,19 @@ img {
     color: #003957;
     text-align: center;
 }
+
+/* Footer styling */
+#main-footer {
+    background-color: rgb(109, 150, 221);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
+
+/* Header styling */
+#main-header {
+    background-color: rgb(109, 150, 221);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    text-align: center;
+}
