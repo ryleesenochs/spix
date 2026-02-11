@@ -1,0 +1,30 @@
+/* Background color */
+body {background-color:lightskyblue;}
+
+/* Header color */
+header {background-color:rgb(109, 150, 221);color:rgb(255, 255, 255);padding:10px;text-align:center;}
+
+/* Paragraph color */
+p {color:darkslategray;}
+
+/* Lists */
+ul {margin-left: 30px;padding: 0;}
+
+/*Section headings*/
+h3, h4 {color:#003957;}
+
+/* Footer color */
+footer {
+    background-color:rgb(109, 150, 221);color:rgb(255, 255, 255);padding:10px;text-align:center;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+/* Image */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+}
