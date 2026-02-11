@@ -58,3 +58,17 @@ img {
     padding: 10px;
     text-align: center;
 }
+
+.flex-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.flex-container .info-box {
+    flex: 1;
+    min-width: 250px;
+    max-width: 500px;
+}
